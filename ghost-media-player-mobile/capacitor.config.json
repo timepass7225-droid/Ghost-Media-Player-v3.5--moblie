@@ -1,8 +1,0 @@
-{
-  "appId": "app.ghostmedia.player.mobile",
-  "appName": "Ghost Media Player",
-  "webDir": "www",
-  "backgroundColor": "#0a0a0c",
-  "android": { "allowMixedContent": false, "backgroundColor": "#0a0a0c" },
-  "server": { "androidScheme": "https" }
-}
